@@ -1,6 +1,6 @@
 {
   "name": "generator-base-reactbonymerjs",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Backbone.js app with ReactJS or Polymer components for web development. With RequireJS, Bootstrap, Sass, and templating with Jade and Lodash.",
   "homepage": "",
   "author": {
